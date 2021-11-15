@@ -1,1 +1,0 @@
-# SOLID-Y-GRASP
